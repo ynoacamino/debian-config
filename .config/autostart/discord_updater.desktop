@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Exec=gnome-terminal -- "/home/ynoacamino/bin/update_discord.sh"
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name=Discord Updater

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=albert
+Comment=albert
+Exec=albert
+Type=Application
+Terminal=false
+Hidden=false
+

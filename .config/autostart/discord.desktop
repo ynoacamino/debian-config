@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=discord
+Comment=discord start
+Exec=discord
+Type=Application
+Terminal=false
+Hidden=false
+

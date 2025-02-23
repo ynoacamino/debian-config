@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=plank
+Comment=plank
+Exec=plank
+Type=Application
+Terminal=false
+Hidden=false
+X-GNOME-Autostart-enabled=true
